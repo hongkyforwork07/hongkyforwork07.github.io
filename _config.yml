@@ -14,19 +14,19 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Ky Nguyen # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: My Personal Blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  blog, code, hust
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://hongkyforwork07.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: hongkyforwork07 # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent.fhan3-1.fna.fbcdn.net/v/t39.30808-6/604775760_1378788267371598_8343364623050348035_n.jpg?stp=dst-jpg_tt6&cstp=mx1280x1280&ctp=s1280x1280&_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFHG0GEjQ_PxNHnxnragX0VgtnY5kHU-kOC2djmQdT6QzSK0QrO1k8YDFLn5XUJEfUmPkJjOPfHmgQ6ESAMnf3Y&_nc_ohc=TqQ2sAAsbK8Q7kNvwE8vh_H&_nc_oc=AdqVCcYHfdoQeIMLO8XTavQPYLGd8wKY9puYFNalx3Mj9hZjs7jFo_BPeGxxIObYX17bMATHOPz1GHakoiUgVDu6&_nc_zt=23&_nc_ht=scontent.fhan3-1.fna&_nc_gid=7USuVb6untUMwnYHELWBMA&_nc_ss=7b2a8&oh=00_AQGhZ1SISqZPA2aMKuEt-L6SY8hoNBuzTP-adFHtl5R8XA&oe=6A7CE31B
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
